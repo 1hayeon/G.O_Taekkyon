@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>G.O택견 | Global One Taekkyeon</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>🌏 G.O택견 | Global One Taekkyeon</h1>
+    <p>무술을 넘어 예술로, 전통을 넘어 세계로</p>
+  </header>
+
+  <section id="about">
+    <h2>📌 About G.O택견</h2>
+    <p>G.O택견은 ‘법고창신(法古創新)’의 철학을 바탕으로, 한국 전통 무예 ‘택견’을 예술로 재창조하는 특별한 공연팀입니다.</p>
+    <p>‘Global One’이라는 이름에는 전통과 현대를 아우르는 창의성과 한국의 문화유산을 세계에 전하고자 하는 비전이 담겨 있습니다.</p>
+  </section>
+
+  <section id="direction">
+    <h2>🌀 우리의 방향 | 법고창신(法古創新)</h2>
+    <p><strong>법고(法古):</strong> 전통 택견의 철학과 정신, 예(禮), 정중동의 미학을 그대로 품습니다.</p>
+    <p><strong>창신(創新):</strong> 이를 기반으로 현대무용, 연극, 음악, 영상 등과 결합해 완전히 새로운 예술 콘텐츠로 재창조합니다.</p>
+    <p>G.O택견은 단지 무술을 보여주는 것이 아닌, 몸과 예술, 정신이 어우러진 살아있는 무대예술을 만들어냅니다.</p>
+  </section>
+
+  <section id="difference">
+    <h2>🎭 우리는 이렇게 다릅니다</h2>
+    <ul>
+      <li><strong>무술과 예술의 융합:</strong> 택견의 움직임을 음악과 무대 안무로 재해석하여 공연예술의 형태로 승화합니다.</li>
+      <li><strong>공연 형식의 다양성:</strong> 실내 공연, 거리 예술, 버스킹, 축제형 퍼포먼스 등 다양한 플랫폼에서 관객과 소통하는 무대를 선보입니다.</li>
+      <li><strong>글로벌 문화유산으로의 확장:</strong> ‘K-택견’을 넘어서 세계무대에서 통하는 한국형 콘텐츠를 지향합니다.</li>
+    </ul>
+  </section>
+
+  <section id="mission">
+    <h2>🌱 우리의 미션</h2>
+    <p>“무술을 넘어 예술로, 전통을 넘어 세계로 나아가는 새로운 움직임”</p>
+    <p>G.O택견은 <strong>전통의 울림과 현대의 감각을 아우르는 ‘세상에 단 하나뿐인 무대’</strong>를 만들어갑니다.</p>
+  </section>
+
+  <section id="media">
+    <h2>📽️ 미리 보기</h2>
+    <ul>
+      <li><a href="#">🔗 공연 하이라이트 영상 보기</a></li>
+      <li><a href="#">📸 공연 이미지 갤러리</a></li>
+      <li><a href="#">🎧 무대 음악 샘플</a></li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>📬 Contact</h2>
+    <p>Email: <a href="mailto:info@globalonetaekkyeon.com">info@globalonetaekkyeon.com</a></p>
+    <p>Instagram: <a href="https://instagram.com/g.o.taekkyeon" target="_blank">@g.o.taekkyeon</a></p>
+    <p>YouTube: <a href="https://www.youtube.com/channel/G.O택견" target="_blank">G.O택견 채널</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 G.O택견. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
